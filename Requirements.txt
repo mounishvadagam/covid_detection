@@ -1,0 +1,7 @@
+torch==2.0.0+cu118
+torchvision
+scikit-learn
+matplotlib
+seaborn
+numpy
+Pillow
