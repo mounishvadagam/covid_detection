@@ -82,7 +82,7 @@ pip install opencv-python numpy pandas scikit-learn scikit-image joblib matplotl
 
 ### Confusion Matrix
 
-![Confusion Matrix](models/confusion_matrix.png)
+![Confusion Matrix](results/classification_report.png)
 
 **Key observations:**
 - **Normal** class performs best (F1: 0.83) — highest sample count helps
